@@ -1,0 +1,6 @@
+{
+  "name": "Gmail Bulk Mailer",
+  "description": "Send personalized bulk emails in controlled batches directly from your Gmail account with CSV import, attachments, templates, and delivery analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
